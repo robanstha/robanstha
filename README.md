@@ -7,6 +7,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything ...
 - 📫 How to reach me: robanstha@gmail.com
 
-<a href="https://github.com/zjayers/github-readme-stats">
-   <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=robanstha&show_icons=true&hide_border=true" />
-</a>
+
+<h1 align="center"></h1>
+<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=robanstha&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robanstha&layout=compact&theme=aura&langs_count=9" />
+<img height="150" />
+<br><br>
