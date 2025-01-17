@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer, lifelong learner, and 
 - 🔭 I’m currently working as Sr. Software Engineer @Cohesity
 - 🌱 I’m currently learning Machine Learning Algorithms.
 - 💬 Ask me about anything ...
-- 📫 How to reach me: [![LinkedIn](https://shields.braskam.com/v1/shields?name=linkedin&format=rectangle&size=small&radius=5)](https://linkedin.com/in/robanstha) 
+- 📫 How to reach me: [![LinkedIn](https://shields.braskam.com/v1/shields?name=linkedin&format=rectangle&size=small&radius=5)](https://linkedin.com/in/roban-shrestha) 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -51,6 +51,6 @@ Welcome to my GitHub profile! I'm a passionate developer, lifelong learner, and 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://shields.braskam.com/v1/shields?name=linkedin&format=rectangle&size=small&radius=5)](https://linkedin.com/in/robanstha) 
+[![LinkedIn](https://shields.braskam.com/v1/shields?name=linkedin&format=rectangle&size=small&radius=5)](https://linkedin.com/in/roban-shrestha) 
 
 🎉 Thanks for visiting my profile! Let's connect and create something amazing together! 🚀
